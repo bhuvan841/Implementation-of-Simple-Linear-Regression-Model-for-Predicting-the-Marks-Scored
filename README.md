@@ -74,7 +74,34 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+### Head Values
+<img width="167" height="241" alt="Screenshot 2024-08-16 154352-1" src="https://github.com/user-attachments/assets/ba57a6e9-aae3-4e08-a457-858978a89625" />
+
+### Tail Values
+<img width="178" height="235" alt="Screenshot 2024-08-16 154419-1" src="https://github.com/user-attachments/assets/14f39504-2127-4a7e-8af0-a5078e891e38" />
+
+### X Values
+<img width="160" height="557" alt="Screenshot 2024-08-16 152702" src="https://github.com/user-attachments/assets/42b9f63b-27db-45c3-9391-1a908c8af39d" />
+
+### y Values
+<img width="718" height="60" alt="Screenshot 2024-08-16 153116-1" src="https://github.com/user-attachments/assets/c3431775-ad6a-44c8-b48d-49e9e896310a" />
+
+### Predicted Values
+<img width="698" height="74" alt="Screenshot 2024-08-16 161908" src="https://github.com/user-attachments/assets/4bbb2dc1-66ec-4bc0-8a9c-2d8474d65612" />
+
+### Actual Values
+<img width="576" height="28" alt="Screenshot 2024-08-16 153301" src="https://github.com/user-attachments/assets/73f99fb1-5c70-4a68-9fa3-12ea38d048f7" />
+
+### Training Set
+<img width="562" height="455" alt="download (8)" src="https://github.com/user-attachments/assets/ce8fae81-7f0a-4110-950f-affd27f7b492" />
+
+### Testing Set
+<img width="562" height="455" alt="download (7)-1" src="https://github.com/user-attachments/assets/3eceb402-704b-4e78-aa03-2bc93ffbc7a6" />
+
+### MSE, MAE and RMSE
+
+<img width="258" height="66" alt="Screenshot 2024-08-16 153958-1" src="https://github.com/user-attachments/assets/08f5261e-3f8b-454f-a3dc-cd11b0127611" />
+
 
 
 ## Result:
