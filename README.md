@@ -5,7 +5,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Equipments Required:
 1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+2. Anaconda – Python 3.7 Installation / Jupyter notebook 
 
 ## Algorithm
 1. Gather data consisting of two variables. Input- a factor that affects the marks and Output - the marks scored by students
